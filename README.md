@@ -1,6 +1,6 @@
 # asdf-kubeseal
 
-[![Build Status](https://dev.azure.com/beardix/asdf/_apis/build/status/beardix.asdf-kubeseal?branchName=master)](https://dev.azure.com/beardix/asdf/_build/latest?definitionId=17&branchName=master)
+![](https://github.com/beardix/asdf-kubeseal/workflows/ci/badge.svg)
 
 [kubeseal](https://github.com/bitnami-labs/sealed-secrets) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
