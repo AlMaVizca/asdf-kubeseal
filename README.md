@@ -1,13 +1,13 @@
 # asdf-kubeseal
 
-![](https://github.com/beardix/asdf-kubeseal/workflows/ci/badge.svg)
+![](https://github.com/AlMaVizca/asdf-kubeseal/workflows/ci/badge.svg)
 
 [kubeseal](https://github.com/bitnami-labs/sealed-secrets) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
 ## Install
 
 ```
-asdf plugin-add kubeseal https://github.com/beardix/asdf-kubeseal.git
+asdf plugin add kubeseal https://github.com/AlMaVizca/asdf-kubeseal.git
 ```
 
 ## Use
